@@ -1,0 +1,16 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+.idea/
+.vscode/
+
+# Local development sources and article-derived reference material
+PROJECT_v2_old.md
+eval_results.md
+golden_evals/
+project.md
+project_segmentation_fixed.md
+project_segmentation_peer_archetypes.md
