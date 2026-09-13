@@ -8,7 +8,7 @@ A `.md` file is Markdown: a readable text file. The recommended ChatGPT setup re
 
 **Start here:**
 
-- [Open the recommended instruction file](project_segmentation_golden_aligned.md)
+- [Download the recommended instruction file](https://github.com/soniparneet/product-sense-practice/releases/download/v1.0.0/project_segmentation_golden_aligned.md)
 - [Follow the setup guide](docs/GETTING_STARTED.md)
 - [See a Candidate example](examples/candidate-example.md)
 - [Read the build story](docs/BUILD_STORY.md)
@@ -28,7 +28,7 @@ The instruction file retains its original heading, “Stripe Product Sense Pract
 
 ## Start here — no coding required
 
-1. Open [`project_segmentation_golden_aligned.md`](project_segmentation_golden_aligned.md) and use the download control to save it. Alternatively, download the whole repository from GitHub using **Code → Download ZIP**, then extract it.
+1. Download [`project_segmentation_golden_aligned.md`](https://github.com/soniparneet/product-sense-practice/releases/download/v1.0.0/project_segmentation_golden_aligned.md). Alternatively, download the whole repository from GitHub using **Code → Download ZIP**, then extract it.
 2. In ChatGPT, create a dedicated Project—for example, **Product Sense Practice**.
 3. Add `project_segmentation_golden_aligned.md` to the Project's files or sources.
 4. Open the Project's settings and paste the short activation text from [`PROJECT_SETUP.txt`](PROJECT_SETUP.txt) into Project instructions. The long Markdown file remains uploaded; the short text activates it rather than replacing it.

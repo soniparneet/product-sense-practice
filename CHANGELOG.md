@@ -1,8 +1,8 @@
 # Changelog
 
-## Initial public release
+## v1.0.0 — 13 September 2026
 
-No release date is assigned until the GitHub release is published.
+Initial public release.
 
 - Packaged one recommended instruction file: `project_segmentation_golden_aligned.md`.
 - Documented no-code ChatGPT Project setup and the `New` / `Candidate` / `Instructor` workflow.

@@ -4,15 +4,14 @@ This setup uses a ChatGPT Project to keep the practice instructions available ac
 
 **Documentation checked:** 13 September 2026.
 
-- The official [ChatGPT Learn guide to Projects and chats](https://learn.chatgpt.com/docs/projects) confirms that a ChatGPT Project can keep related chats, uploaded files, instructions, and sources together, and that Project instructions apply across its chats.
-- The requested [OpenAI Help Center article about Projects](https://help.openai.com/en/articles/10169521-projects-in-chatgpt) could not be retrieved during packaging because its edge protection returned an access error. Use it as the primary place to check current account-specific controls and limits.
+- The official [OpenAI Help Center article about Projects](https://help.openai.com/en/articles/10169521-projects-in-chatgpt) confirms that a ChatGPT Project can keep related chats, uploaded files, and Project instructions together. It also documents where to find Project settings and project-only memory controls.
 - GitHub's official [source archive guide](https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives) confirms the **Code → Download ZIP** route and release archive downloads.
 
 Interfaces and feature availability can vary by account and may change after the verification date.
 
 ## 1. Download the instructions
 
-Recommended: open [`project_segmentation_golden_aligned.md`](../project_segmentation_golden_aligned.md) and download the file.
+Recommended: download the release asset [`project_segmentation_golden_aligned.md`](https://github.com/soniparneet/product-sense-practice/releases/download/v1.0.0/project_segmentation_golden_aligned.md).
 
 Whole-repository alternative:
 
@@ -21,7 +20,7 @@ Whole-repository alternative:
 3. Select **Download ZIP**.
 4. Extract the ZIP and locate `project_segmentation_golden_aligned.md`.
 
-If a GitHub release is available, its assets should include the exact instruction file, `PROJECT_SETUP.txt`, and a reviewed starter ZIP. Do not upload the whole repository to ChatGPT; the one instruction file and activation text are sufficient.
+The v1.0.0 release also includes `PROJECT_SETUP.txt` and a reviewed [`product-sense-practice-starter-v1.0.0.zip`](https://github.com/soniparneet/product-sense-practice/releases/download/v1.0.0/product-sense-practice-starter-v1.0.0.zip). Do not upload the whole repository to ChatGPT; the one instruction file and activation text are sufficient.
 
 ## 2. Create a dedicated ChatGPT Project
 
